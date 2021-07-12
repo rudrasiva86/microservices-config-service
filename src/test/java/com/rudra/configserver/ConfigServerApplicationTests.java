@@ -1,4 +1,4 @@
-package com.rudrasiva86.configserver;
+package com.rudra.configserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
